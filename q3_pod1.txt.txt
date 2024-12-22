@@ -1,0 +1,2 @@
+NAME   READY   STATUS    RESTARTS   AGE     IP                NODE    NOMINATED NODE   READINESS GATES
+pod1   1/1     Running   0          2m45s   192.168.166.132   node1   <none>           <none>
